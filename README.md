@@ -1,6 +1,7 @@
 # elements-of-statistical-learning
 
 Reading club: The Elements of Statistical Learning
+
 Online Course: [StatLearning@Standford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 
 The easiest way of creating notes is to duplicate one of the previous .md files and make changes to it.
